@@ -1,5 +1,5 @@
 
-                                                Data Analysis Projects
+                                             Data Analysis Projects
 
 =>**Exploring the Data Scientists**:
 This projects involes using python libraries to perform Data Analysis on the Data Scienctist data collected by Kaggel. In 2017, Kaggle (a data science community and competition platform) conducted a survey on a large range of users registered as the data scientist in their platform. The survey data are broadly covered the skill set of the data scientists, the demographic of the data scientists, the feedback of the platform and many other information.This project involved
@@ -20,7 +20,7 @@ The projects involves data analysis on the history of kernel development of almo
 -Visualising the result using matplotlib graphs
 
 
-                                                Machine Learning Projects
+                                             Machine Learning Projects
 
  
 => **Clustering&PCA**: Perform Unsupervised k means clustering to design an environment to predict a class/category from a dataset based on specific features of that class. However, all the features are not strong enough or in other words features not that much variance/uniqueness across the classes. So clustering model needs to be designed. Following steps were performed:
