@@ -1,6 +1,6 @@
 # Projects-
 
-                                                                **Data Analysis Project**
+                                                              Data Analysis Projects
 
 => Exploring the Data Scientists: This projects involes using python libraries to perform Data Analysis on the Data Scienctist data collected by Kaggel. In 2017, Kaggle (a data science community and competition platform) conducted a survey on a large range of users registered as the data scientist in their platform. The survey data are broadly covered the skill set of the data scientists, the demographic of the data scientists, the feedback of the platform and many other information.This project involved
 -dealing with missing values in the dataset
