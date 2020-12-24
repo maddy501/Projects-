@@ -17,3 +17,6 @@
 -Using groupby and aggregation function finding the top 10 values of a column
 -Converting columns to date_time format and corrrecting wrong time stamps.
 -Visualising the result using matplotlib graphs
+
+
+                                                Machine Learning Projects
